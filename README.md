@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vishesh4757@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGOZJR1BR4/4vhbq-UN_5Da6ug0UNXj4g/edit?utm_content=DAGOZJR1BR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOZJR1BR4/4vhbq-UN_5Da6ug0UNXj4g/edit?utm_content=DAGOZJR1BR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAGOZJR1BR4/v9QFCD_xECd2HFAF0tHmfg/view?utm_content=DAGOZJR1BR4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7be8c2c50a)
 
 - ⚡ Fun fact **There is nothing funny about me**
 
