@@ -1,88 +1,109 @@
 # 👋 Hey, I'm Vishesh Singh!
 
-### 🚀 Developer | AI/ML Enthusiast | Problem Solver
+### 💻 Computer Science Student | Developer | AI/ML Enthusiast
 
-I'm a Computer Science student passionate about **software development, AI/ML, cloud technologies, and problem solving**.
+Welcome to my GitHub! 🚀
 
-I enjoy turning ideas into practical projects, solving challenging **DSA problems**, and continuously learning new technologies.
+I'm a Computer Science student passionate about **software development, Artificial Intelligence, Machine Learning, Cloud Computing, and problem solving**.
+
+I love building projects, solving DSA problems, exploring new technologies, and turning ideas into working applications.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 * 🎓 Computer Science student
-* 💻 Currently sharpening my **DSA & Competitive Programming** skills
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* ☁️ Exploring **AWS & Cloud Computing**
-* 🌐 Building projects with **Web Technologies**
-* 🚀 Always working on something new
-* 📚 Learning, building, breaking, and improving every day
+* 💻 Strong interest in **Software Development & DSA**
+* 🤖 Exploring **AI / Machine Learning**
+* ☁️ Learning and building with **AWS & Cloud Computing**
+* 🌐 Interested in **Full-Stack Web Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Building projects and participating in tech opportunities
+* 📈 Constantly learning and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,java" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,javascript" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### ☁️ Cloud & Tools
+### Cloud & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
 </p>
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📚 Currently Learning
 
-🔹 Improving my **Data Structures & Algorithms** skills
-🔹 Building **AI-powered applications**
-🔹 Exploring **Cloud & AWS services**
-🔹 Developing projects that solve real-world problems
-🔹 Preparing for **software engineering & AI/ML opportunities**
+```text
+Data Structures & Algorithms    ████████████████░░░░
+C++ & Problem Solving           █████████████████░░░
+Web Development                 ███████████████░░░░░
+AI / Machine Learning           █████████████░░░░░░░
+AWS & Cloud Computing           ████████████░░░░░░░░
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 What I'm Working On
 
-### 🤖 AI / Machine Learning
+🧩 **DSA & Problem Solving**
+Working on improving my problem-solving skills through coding challenges and algorithmic problems.
 
-> Intelligent applications that use AI/ML to solve practical problems.
+🤖 **AI-Powered Projects**
+Building applications that use AI/ML to solve practical problems.
 
-### ☁️ AWS Cloud Projects
+☁️ **AWS Projects**
+Getting hands-on experience with cloud services, deployment, and cloud architecture.
 
-> Hands-on projects exploring AWS services, cloud architecture, and deployment.
+🌐 **Web Development**
+Creating modern and useful web applications.
 
-### 🌐 Web Applications
+---
 
-> Full-stack and frontend projects focused on building useful and intuitive applications.
+## 📌 Featured Areas
 
-### 🧩 DSA & Problem Solving
+### 🧠 Data Structures & Algorithms
 
-> Solutions and implementations of problems covering arrays, strings, linked lists, trees, graphs, dynamic programming, and more.
+Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Graphs • Heaps • Dynamic Programming
+
+### 🤖 Artificial Intelligence
+
+Machine Learning • AI Applications • Intelligent Systems • Automation
+
+### ☁️ Cloud Computing
+
+AWS • Cloud Deployment • Storage • Compute • Serverless Technologies
+
+### 💻 Software Development
+
+C++ • Python • JavaScript • React • Node.js
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Visheshh-177&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshh-177&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -90,47 +111,33 @@ I enjoy turning ideas into practical projects, solving challenging **DSA problem
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Visheshh-177&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🧠 My Coding Journey
-
-```text
-Learning        ███████████████████░  95%
-DSA             ████████████████░░░░  80%
-Development     ███████████████░░░░░  75%
-AI / ML         █████████████░░░░░░░  65%
-Cloud / AWS     ████████████░░░░░░░░  60%
-```
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Become stronger at DSA & problem solving
-* [ ] Build production-ready AI applications
-* [ ] Deepen my knowledge of AWS & cloud architecture
-* [ ] Contribute to open-source projects
-* [ ] Build impactful real-world projects
-* [ ] Land a great software/AI internship 🚀
+* [ ] 🚀 Become highly proficient in DSA
+* [ ] 🤖 Build impactful AI/ML projects
+* [ ] ☁️ Get deeper into AWS & Cloud
+* [ ] 🌐 Build production-ready web applications
+* [ ] 🏆 Participate in hackathons & coding competitions
+* [ ] 🌟 Contribute to open-source projects
+* [ ] 💼 Secure a strong software/AI internship
 
 ---
 
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Visheshh-177">
+    <img src="https://img.shields.io/badge/GitHub-Visheshh--177-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💡 "Build. Learn. Solve. Repeat."
+### 💡 Build. Learn. Solve. Repeat. 🚀
 
-⭐ If you find something interesting here, feel free to explore my repositories!
+⭐ Thanks for visiting my profile!
