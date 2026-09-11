@@ -1,27 +1,136 @@
-<h1 align="center">Hi 👋, I'm Vishesh Kumar Singh</h1>
-<h3 align="center">A passionate learner from India</h3>
+# 👋 Hey, I'm Vishesh Singh!
 
-- 💬 Ask me about **python , sql**
+### 🚀 Developer | AI/ML Enthusiast | Problem Solver
 
-- 📫 How to reach me **vishesh4757@gmail.com**
+I'm a Computer Science student passionate about **software development, AI/ML, cloud technologies, and problem solving**.
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAGOZJR1BR4/v9QFCD_xECd2HFAF0tHmfg/view?utm_content=DAGOZJR1BR4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7be8c2c50a)
+I enjoy turning ideas into practical projects, solving challenging **DSA problems**, and continuously learning new technologies.
 
-- ⚡ Fun fact **There is nothing funny about me**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishesh4757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishesh4757" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishesh-kumar-singh-17247a287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishesh-kumar-singh-17247a287" height="30" width="40" /></a>
-<a href="https://instagram.com/visheshh_177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="visheshh_177" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vishesh kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishesh kumar singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vishesh_kumarsi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishesh_kumarsi1" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+
+* 🎓 Computer Science student
+* 💻 Currently sharpening my **DSA & Competitive Programming** skills
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* ☁️ Exploring **AWS & Cloud Computing**
+* 🌐 Building projects with **Web Technologies**
+* 🚀 Always working on something new
+* 📚 Learning, building, breaking, and improving every day
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshh-177&show_icons=true&locale=en&layout=compact" alt="visheshh-177" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visheshh-177&show_icons=true&locale=en" alt="visheshh-177" /></p>
+### 🤖 AI / ML
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
+</p>
+
+---
+
+## 📌 What I'm Currently Working On
+
+🔹 Improving my **Data Structures & Algorithms** skills
+🔹 Building **AI-powered applications**
+🔹 Exploring **Cloud & AWS services**
+🔹 Developing projects that solve real-world problems
+🔹 Preparing for **software engineering & AI/ML opportunities**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI / Machine Learning
+
+> Intelligent applications that use AI/ML to solve practical problems.
+
+### ☁️ AWS Cloud Projects
+
+> Hands-on projects exploring AWS services, cloud architecture, and deployment.
+
+### 🌐 Web Applications
+
+> Full-stack and frontend projects focused on building useful and intuitive applications.
+
+### 🧩 DSA & Problem Solving
+
+> Solutions and implementations of problems covering arrays, strings, linked lists, trees, graphs, dynamic programming, and more.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 My Coding Journey
+
+```text
+Learning        ███████████████████░  95%
+DSA             ████████████████░░░░  80%
+Development     ███████████████░░░░░  75%
+AI / ML         █████████████░░░░░░░  65%
+Cloud / AWS     ████████████░░░░░░░░  60%
+```
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Become stronger at DSA & problem solving
+* [ ] Build production-ready AI applications
+* [ ] Deepen my knowledge of AWS & cloud architecture
+* [ ] Contribute to open-source projects
+* [ ] Build impactful real-world projects
+* [ ] Land a great software/AI internship 🚀
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Build. Learn. Solve. Repeat."
+
+⭐ If you find something interesting here, feel free to explore my repositories!
